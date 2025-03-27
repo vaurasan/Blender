@@ -1,5 +1,5 @@
 # Blender
 
-Täältä löytyy minun tekemiä Blender projekteja
+Täältä löytyy tekemiäni Blender projekteja
 
 Mukana .stl tiedostot, joilla saa geometrian tarvittaessa itselleen
